@@ -259,10 +259,150 @@
     "color": "Black"
     },
     {
-    "info": "Smart Speaker",
-    "image": "https://images-na.ssl-images-amazon.com/images/I/51UZ17lvVFL._SL1000_.jpg",
-    "title": "Echo Show 8 - Smart speaker with 8 inch HD screen",
-    "link": "https://amzn.to/3ApX9a0",
+    "info": "Bluetooth Mouse",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61uZqfr7KeL._SL1500_.jpg",
+    "title": "Logitech M337 Wireless Mouse",
+    "link": "https://amzn.to/3jHSRFd",
+    "color": "Black"
+    },
+    {
+    "info": "Bluetooth Mouse",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/611MVODMR0L._SL1201_.jpg",
+    "title": "AmazonBasics Full-Size Ergonomic Wireless Mouse with Fast Scrolling",
+    "link": "https://amzn.to/3dIEJHH",
+    "color": "Black"
+    },
+    {
+    "info": "Bluetooth Mouse",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71PJk06mk0L._SL1500_.jpg",
+    "title": "HP Z3700 Wireless Mouse",
+    "link": "https://amzn.to/2Ur71zF",
+    "color": "Black"
+    },
+    {
+    "info": "Bluetooth Mouse",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71EdWexJqtL._SL1500_.jpg",
+    "title": "Logitech M331 Silent Plus Wireless Mouse",
+    "link": "https://amzn.to/2UoKLGE",
+    "color": "Black"
+    },
+    {
+    "info": "Mouse Pad",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/519TZuBfuwL._SL1100_.jpg",
+    "title": "Scarters Extended Mouse Pad | Anti-Skid, Anti-Slip, Reversible",
+    "link": "https://amzn.to/3Aq6zSR",
+    "color": "Navy Blue & Yellow"
+    },
+    {
+    "info": "Mouse Pad",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61G5-hNFMYL._SL1000_.jpg",
+    "title": "Redgear MP35 Speed-Type Gaming Mousepad",
+    "link": "https://amzn.to/36eQj9E",
+    "color": "Black and Red"
+    },
+    {
+    "info": "Mouse Pad",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/51XGotAiYYL._SL1500_.jpg",
+    "title": "AmazonBasics Extended Gaming Mouse Pad",
+    "link": "https://amzn.to/3yooEyQ",
+    "color": "Black"
+    },
+    {
+    "info": "Mouse Pad",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/6181jZehG7L._SL1500_.jpg",
+    "title": "IT2M Designer Mouse Pad for Laptop/Computer",
+    "link": "https://amzn.to/2Ur7ulp",
+    "color": "Amer1"
+    },
+    {
+    "info": "Mouse Pad",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/21mdFExep6L.jpg",
+    "title": "Storin Long Extended Waterproof Foldable Mouse Pad with Nonslip Base",
+    "link": "https://amzn.to/3wi4QvM",
+    "color": "Red and Black"
+    },
+    {
+    "info": "Keyboard",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/81phrqvf5YL._SL1500_.jpg",
+    "title": "Cosmic Byte CB-GK-16 Firefly RGB Ten-Keyless Mechanical Keyboard with Outemu Blue Switch",
+    "link": "https://amzn.to/3qTuXIo",
+    "color": "Black"
+    },
+    {
+    "info": "Keyboard",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/6124vLIswVL._SL1500_.jpg",
+    "title": "Logitech MK240 Nano Wireless Keyboard and Mouse Combo,12 Function Keys 2.4GHz Wireless",
+    "link": "https://amzn.to/36dVdDC",
+    "color": "Black and Chartreuse Yellow"
+    },
+    {
+    "info": "Keyboard",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61M2CPqMgwL._SL1000_.jpg",
+    "title": "Redgear Blaze Semi-Mechanical wired Gaming keyboard with 3 colour backlit",
+    "link": "https://amzn.to/3huCTLM",
+    "color": "Black"
+    },
+    {
+    "info": "Keyboard",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71stpjeRYmL._SL1500_.jpg",
+    "title": "EvoFox Katana Fully Programmable Mechanical Gaming Keyboard with Blue Switches, Wrist Pad",
+    "link": "https://amzn.to/2V8oQnJ",
+    "color": "Black"
+    },
+    {
+    "info": "Keyboard",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61rCubd1dVL._SL1500_.jpg",
+    "title": "Logitech MK345 Wireless Combo – Full-Sized Keyboard with Palm Rest and Comfortable Right-Handed Mouse",
+    "link": "https://amzn.to/3jE6uoN",
+    "color": "Black"
+    },
+    {
+    "info": "Keyboard",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61AUK1nqlfL._SL1500_.jpg",
+    "title": "HP CS10 Wireless Multi-Device Keyboard and Mouse Combo",
+    "link": "https://amzn.to/3xhcAzp",
+    "color": "Black"
+    },
+    {
+    "info": "Keyboard",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/41BUnoBwFUL.jpg",
+    "title": "Muvit Wireless Keyboard Small Computer Wireless Keyboards Slim Compact External Keyboard",
+    "link": "https://amzn.to/3hdv7H8",
+    "color": "Silver"
+    },
+    {
+    "info": "Monitor",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/719Arg-0YFL._SL1500_.jpg",
+    "title": "Lenovo 60.4 cm (23.8-inch) FHD Ultra Slim Near Edgeless IPS Monitor with 75Hz",
+    "link": "https://amzn.to/2SLJPf8",
+    "color": "Black"
+    },
+    {
+    "info": "Monitor",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71bZyqtHH6L._SL1500_.jpg",
+    "title": "MSI 23.8-inch PRO MP241 Professional Monitor Full HD, Anti-Glare, Display Kit & VESA Mount Support",
+    "link": "https://amzn.to/36cpjYf",
+    "color": "Black"
+    },
+    {
+    "info": "Monitor",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/91TS0uHjMbL._SL1500_.jpg",
+    "title": "Samsung 24 inch (60.4 cm) IPS, 3 Side Bezel Less Flat LED Monitor ",
+    "link": "https://amzn.to/3ys2dsN",
+    "color": "Dark Blue Gray"
+    },
+    {
+    "info": "Monitor",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/71wRe7xkcSL._SL1246_.jpg",
+    "title": "Acer 21.5 Inch Full HD IPS Ultra Slim (6.6mm Thick) Monitor I Frameless Design",
+    "link": "https://amzn.to/3wbIOe0",
+    "color": "White and Black"
+    },
+    {
+    "info": "Monitor",
+    "image": "https://images-na.ssl-images-amazon.com/images/I/61jYCCxP5ZL._SL1100_.jpg",
+    "title": "LG QHD (2560 x 1440) 32 Inch IPS Display 3 Side Borderless - HDR 10, sRGB 99%",
+    "link": "https://amzn.to/3jVFVf5",
     "color": "Black"
     }
 ]
